@@ -3,7 +3,7 @@
 #Academic-Project
 
 This project was developed using image processing, machine learning and raspberrypi. As the name suggest we build a system that can detect danger and warn the driver 
-about the iminent threat.
+about the imminent threat.
 
 command to run -
 python3 real_time_object_detection.py \--prototxt MobileNetSSD_deploy.prototxt.txt \--model MobileNetSSD_deploy.caffemodel
